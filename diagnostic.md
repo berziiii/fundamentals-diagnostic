@@ -3,7 +3,7 @@
 # Diagnostic
 
 ## Question 1
-
+ blah
 ```sh
 Graces-MacBook-Pro:~ grace$ mkdir wdi
 Graces-MacBook-Pro:~ grace$ cd wdi
